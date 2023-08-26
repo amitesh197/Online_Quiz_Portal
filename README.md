@@ -16,5 +16,5 @@ Download the zip file and copy all the files in the single folder. Open the fold
 
 ## ScreenShot
 
-<img src="https://github.com/jyothi-k-g/online-quiz-poral/blob/main/images/s1.png" /> 
+<img src="https://github.com/amitesh-sawarkar/Online_Quiz_Portal/s1.png" /> 
 
