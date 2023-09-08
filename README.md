@@ -1,4 +1,4 @@
-# Online quiz portal
+# Online Quiz Portal
 
 ## Description
 It is an online portal in which one can attend the quiz online and view the results immeadiately after completing the quiz
